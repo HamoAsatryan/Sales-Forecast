@@ -25,7 +25,7 @@ Git
 1. Clone the repository:
 ```
 git clone https://github.com/HamoAsatryan/Sales-Forecast.git
-cd Sales-Prediction
+cd Sales-Forecast
 ```
 2. Build the Docker image:
 ```
@@ -44,5 +44,6 @@ numpy==2.1.2
 scikit-learn==1.7.1
 lightgbm==4.6.0
 ```
+
 
 
